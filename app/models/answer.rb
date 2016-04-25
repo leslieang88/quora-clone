@@ -1,3 +1,3 @@
-class User < ActiveRecord::Base
+class Answer < ActiveRecord::Base
 	# This is Sinatra! Remember to create a migration!
 end
